@@ -1,8 +1,10 @@
 # Hi, I'm Rishabh
 
-I'm a product leader with about ten years across engineering and product. I work remotely from India with teams and customers in Europe, Africa and the Middle East.
+Product and growth leader for B2B marketplaces and ecommerce. About ten years across engineering and product. I work remotely from India with teams and customers in Europe, Africa and the Middle East.
 
 I started as a developer, moved into product, and I still write the code when it's the fastest way to get an answer. That mix is useful in growth work, where the real problems usually sit between the product, the data and the code.
+
+Ask me about: Magento, marketplace growth, technical SEO, AI search visibility (llms.txt, agent-ready stores), checkout and payments, and moving from engineering into product.
 
 ## What I do now
 
